@@ -1,6 +1,6 @@
 # Architecture Diagram
 
-![image](images\Architecture-Diagram.png)
+<img width="1959" height="912" alt="image" src="https://github.com/user-attachments/assets/1217bd59-52e4-4add-8281-74ac4b9561d1" />
 
 ## EC2 Setup
 
