@@ -20,6 +20,7 @@
 - sudo gpasswd -a $USER docker
 - newgrp docker
 - sudo systemctl start docker
+- echo -e "AIRFLOW_UID=$(id -u)" > .env
 - docker-compose up -d
 
 ## Airflow Setup
