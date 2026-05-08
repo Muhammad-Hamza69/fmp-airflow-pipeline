@@ -27,5 +27,5 @@
 
 - http://localhost:8080/
 
-- Variable: In Airflow set variable of api key, user credentials and SNS arn
-- Connections: In Airflow set connections of S3, and Snowflake
+- Variable: In Airflow set variable of api key and SNS arn
+- Connections: In Airflow set connections of S3, user credentials, and Snowflake
